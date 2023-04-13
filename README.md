@@ -7,14 +7,19 @@ It utilizes the OpenWeatherMap API to fetch weather data for the entered locatio
 ## Features
 
 -Real-time weather information
+
 -OpenWeatherMap API integration
+
 -Simple interface
+
 -Real-time updates
 
 ## Technologies Used
 
 - React.js
+
 - Axios
+
 -OpenWeatherMap API
 
 ## Installation
